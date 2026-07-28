@@ -1,0 +1,1840 @@
+-
+    Command: @
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: @functions
+    Type: functions
+    Description: Cursor and screen manipulation.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bkt1666031195650.html
+-
+    Command: @unassigned
+    Type: statement
+    Description: Unassigns a variable
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jyt1732691941770.html
+-
+    Command: @variables
+    Type: variables
+    Description: Built-in @ variables
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/brp1694761536320.html
+-
+    Command: A
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: ABORT
+    Type: statement
+    Description: Program termination.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nhi1666031196476.html
+-
+    Command: ABS
+    Type: function
+    Description: Returns absolute value.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/buk1666031196620.html
+-
+    Command: ABSS
+    Type: function
+    Description: Returns absolute value of elements in a dynamic array
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/vjm1666031196827.html
+-
+    Command: ADDS
+    Type: function
+    Description: Adds corresponding elements in two dynamic arrays.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ott1666031196963.html
+-
+    Command: ALPHA
+    Type: function
+    Description: Returns Boolean result for alphabetic check.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/qeg1666031197109.html
+-
+    Command: ANDS
+    Type: function
+    Description: "Create a dynamic array of logical AND of corresponding elements from\n\t\t\t\t\t\t\ttwo arrays."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tsx1729060496448.html
+-
+    Command: ASCII
+    Type: function
+    Description: EBCDIC to ASCII conversion function.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ivs1666031197394.html
+-
+    Command: ASSIGNED
+    Type: function
+    Description: Returns Boolean result for variable assignment.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/cri1666031197665.html
+-
+    Command: B
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: BITAND
+    Type: function
+    Description: Performs a bit-wise AND comparison of two integers.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pyx1666031197798.html
+-
+    Command: BITCHANGE
+    Type: function
+    Description: Toggles the state of the specified bit.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/clz1666031197938.html
+-
+    Command: BITCHECK
+    Type: function
+    Description: Returns the current value of the specified bit.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/rpd1666031198064.html
+-
+    Command: BITLOAD
+    Type: function
+    Description: Assigns values in the local bit table.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sxp1666031198185.html
+-
+    Command: BITNOT
+    Type: function
+    Description: "Returns the bit-wise negation of an integer specified by a numeric\n\t\t\t\t\t\t\texpression."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bpq1666031198341.html
+-
+    Command: BITOR
+    Type: function
+    Description: Performs a bit-wise OR comparison of two integers.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nel1666031198496.html
+-
+    Command: BITRESET
+    Type: function
+    Description: Resets the value of the specified bit.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/kdu1666031198591.html
+-
+    Command: BITSET
+    Type: function
+    Description: Sets the value of the specified bit.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/afm1666031198762.html
+-
+    Command: BITTEST
+    Type: function
+    Description: "Tests the bit number of the integer specified by an\n\t\t\t\t\t\t\texpression."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/dsc1666031198879.html
+-
+    Command: BITXOR
+    Type: function
+    Description: Performs a bit-wise XOR comparison of two integers.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/hhj1666031199003.html
+-
+    Command: BREAK
+    Type: statement
+    Description: Break key manipulation. Loop Termination.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/myk1666031199141.html
+-
+    Command: BREAK ON/OFF
+    Type: statement
+    Description: Used to turn the break key on of off in an application.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/oli1666031199260.html
+-
+    Command: BYTELEN
+    Type: function
+    Description: "Returns the length of the expression as the number of bytes rather\n\t\t\t\t\t\t\tthan the number of characters."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pen1666031199811.html
+-
+    Command: C
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: CALL
+    Type: statement
+    Description: Transfer of program execution to an external subroutine.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/yoj1666031200028.html
+-
+    Command: CALLdotNET
+    Type: statement
+    Description: Call a .NET assembly
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jck1666031201522.html
+-
+    Command: CALLJ
+    Type: statement
+    Description: Call a JAVA method
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wle1666031281943.html
+-
+    Command: CALLONEXIT
+    Type: function
+    Description: "specifies the name of a subroutine to call when the program\n\t\t\t\t\t\t\tterminates"
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wuz1666031282014.html
+-
+    Command: CASE
+    Type: command
+    Description: Sets options for case sensitivity
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/rre1734530471432.html
+-
+    Command: CASE
+    Type: statement
+    Description: Conditional branching.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/hek1666031282107.html
+-
+    Command: CASING
+    Type: statement
+    Description: "Toggles the case sensitivity relative to input data and string\n\t\t\t\t\t\t\tcomparisons in the current program and any called subroutines."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wxp1734530559241.html
+-
+    Command: CATALOG
+    Type: function
+    Description: "Used to create executables and shared libraries from the application\n\t\t\t\t\t\t\tsource code."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gif1666031265080.html
+-
+    Command: CATS
+    Type: function
+    Description: Concatenates corresponding elements in two dynamic arrays.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sca1666031282182.html
+-
+    Command: CHAIN
+    Type: statement
+    Description: Transfer of process control.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mpg1666031200356.html
+-
+    Command: CHANGE
+    Type: statement
+    Description: Sub-string replacement.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/yut1666031282252.html
+-
+    Command: CHANGE()
+    Type: function
+    Description: The function form of theCHANGEstatement
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wuo1666031282321.html
+-
+    Command: CHANGETIMESTAMP
+    Type: function
+    Description: Adjust existing time stamp to return new timestamp value.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jdi1752526483402.html
+-
+    Command: CHAR
+    Type: function
+    Description: Returns the ASCII equivalent of a numeric expression.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/vez1666031282530.html
+-
+    Command: CHARS
+    Type: function
+    Description: "Returns the ASCII equivalents of the numeric expressions in a dynamic\n\t\t\t\t\t\t\tarray."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wqn1666031282695.html
+-
+    Command: CHDIR
+    Type: function
+    Description: Changes the current directory.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/hpf1666031282762.html
+-
+    Command: CHECKSUM
+    Type: function
+    Description: Returns numeric checksum for the supplied expression.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/dko1666031282829.html
+-
+    Command: CLEAR
+    Type: statement
+    Description: Initializes all variables to zero.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/slz1666031282896.html
+-
+    Command: CLEARCOMMON
+    Type: statement
+    Description: Initializes all unnamed common variables to a value of zero.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/enb1666031282961.html
+-
+    Command: CLEARDATA
+    Type: statement
+    Description: Clears data that has been stacked by the DATA statement.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/peo1666031283027.html
+-
+    Command: CLEARFILE
+    Type: statement
+    Description: Clears all the data from a file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pch1666031283166.html
+-
+    Command: CLEARINPUT
+    Type: statement
+    Description: Clears the type-ahead buffer.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/oex1666031283270.html
+-
+    Command: CLEARSELECT
+    Type: statement
+    Description: Clears active select lists.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/zbo1666031283337.html
+-
+    Command: CLOSE
+    Type: statement
+    Description: Closes a previously opened file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/lpn1666031281337.html
+-
+    Command: CLOSESEQ
+    Type: statement
+    Description: Closes a previously opened sequential file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gjm1666031206565.html
+-
+    Command: COL1 / COL2
+    Type: function
+    Description: "Determine Character positions before or after a located\n\t\t\t\t\t\t\tfield."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/okm1666031283405.html
+-
+    Command: COLLECTDATA
+    Type: statement
+    Description: "Retrieves data passed from the PASSDATA clause of an EXECUTE\n\t\t\t\t\t\t\tstatement"
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/cix1666031209212.html
+-
+    Command: COMMON
+    Type: statement
+    Description: "Declares a list of variables and matrices that can be shared among\n\t\t\t\t\t\t\tprograms."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pdy1666031200244.html
+-
+    Command: COMPARE
+    Type: function
+    Description: Compares two strings.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/dqs1666031283553.html
+-
+    Command: CONTINUE
+    Type: statement
+    Description: Used to skip code in a loop.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/hex1666031199375.html
+-
+    Command: CONVERT
+    Type: statement
+    Description: Converts a character string to another.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mrj1666031283622.html
+-
+    Command: CONVERT()
+    Type: function
+    Description: Converts a character string to another.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mrj1666031283622.html
+-
+    Command: COS
+    Type: function
+    Description: Returns the cosine of an angle.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sez1666031283776.html
+-
+    Command: COUNT
+    Type: function
+    Description: "Returns the number of times that one string occurs in\n\t\t\t\t\t\t\tanother."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nwy1666031201174.html
+-
+    Command: COUNTS
+    Type: function
+    Description: "Counts the number of times a sub-string is repeated in each element\n\t\t\t\t\t\t\tof a dynamic array."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/xht1666031283858.html
+-
+    Command: CREATE
+    Type: statement
+    Description: "Creates a record in a jBASE directory file or creates a UNIX/DOS\n\t\t\t\t\t\t\tfile."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jlb1666031206186.html
+-
+    Command: CRT
+    Type: statement
+    Description: Outputs data to the terminal.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nvq1666031202203.html
+-
+    Command: D
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: DATA
+    Type: statement
+    Description: Stores data for stacked input.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bcg1666031283096.html
+-
+    Command: DATE
+    Type: function
+    Description: Returns the date in internal form.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/eil1666031283928.html
+-
+    Command: DCOUNT
+    Type: function
+    Description: "Counts the number of elements in a string separated by a specified\n\t\t\t\t\t\t\tdelimiter."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/aaa1666031201285.html
+-
+    Command: DEBUG
+    Type: statement
+    Description: Passes control to the jBC debugger.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ore1666031284064.html
+-
+    Command: DECATALOG and DELETE-CATALOG
+    Type: function
+    Description: "Remove the run-time versions of cataloged jBASE BASIC\n\t\t\t\t\t\t\tprograms."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gfc1666031265147.html
+-
+    Command: DECRYPT
+    Type: function
+    Description: Decodes an encrypted string.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mpi1666031284134.html
+-
+    Command: DEFC
+    Type: statement
+    Description: Declares an external C function to the jBC compiler.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tht1666031284347.html
+-
+    Command: DEFCE
+    Type: statement
+    Description: "Calls an external C program that does not require use of jBASE\n\t\t\t\t\t\t\tlibrary macro's and functions."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/yxj1666031284415.html
+-
+    Command: DEFFUN
+    Type: statement
+    Description: Declares an external jBC function to the jBC compiler.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tiw1666031284486.html
+-
+    Command: DEL
+    Type: statement
+    Description: Removes a specified element from a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/eio1666031284552.html
+-
+    Command: DELETE
+    Type: statement
+    Description: Deletes a record from a file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/adk1666031207668.html
+-
+    Command: DELETELIST
+    Type: statement
+    Description: Deletes a stored list.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/owm1666031284621.html
+-
+    Command: DELETESEQ
+    Type: statement
+    Description: Deletes a sequential file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bok1666031284770.html
+-
+    Command: DELETEU
+    Type: statement
+    Description: Deletes a record without releasing update locks.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sci1666031284848.html
+-
+    Command: DIM / DIMENSION
+    Type: statement
+    Description: Declares fixed length arrays to the compiler.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fxm1749556197305.html
+-
+    Command: DIR
+    Type: function
+    Description: Returns information about a file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/aud1666031284927.html
+-
+    Command: DISPLAY
+    Type: statement
+    Description: Synonym of CRT.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nvq1666031202203.html
+-
+    Command: DIV
+    Type: function
+    Description: "Calculates the value of the quotient after division of the dividend\n\t\t\t\t\t\t\tby the divisor."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mth1666031284994.html
+-
+    Command: DIVS
+    Type: function
+    Description: Divides corresponding elements in two dynamic arrays.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/svc1666031285062.html
+-
+    Command: DOWNCASE and UPCASE
+    Type: function
+    Description: "Converts all uppercase characters in an expression to\n\t\t\t\t\t\t\tlowercase."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/lsv1666031285148.html
+-
+    Command: DROUND
+    Type: function
+    Description: Performs double-precision rounding on a value.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/szc1666031285216.html
+-
+    Command: DTX
+    Type: function
+    Description: "Returns the hexadecimal representation of a decimal\n\t\t\t\t\t\t\texpression."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/vhm1666031285283.html
+-
+    Command: DYNTOXML
+    Type: function
+    Description: Converts a dynamic array to XML.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fct1666031285351.html
+-
+    Command: E
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: EBCDIC
+    Type: function
+    Description: Converts a string value from ASCII to EBCDIC.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ykc1666031197524.html
+-
+    Command: ECHO
+    Type: statement
+    Description: "Turns on or off the echoing of characters typed at the\n\t\t\t\t\t\t\tkeyboard."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jmd1666031285419.html
+-
+    Command: Embedded SQL
+    Type: SQL
+    Description: Embedded SQL for jBASE BASIC
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ldn1666031285488.html
+-
+    Command: ENCRYPT
+    Type: function
+    Description: Encrypts strings.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/kun1666031284277.html
+-
+    Command: ENTER
+    Type: statement
+    Description: Unconditionally passes control to another executable program.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pmb1666031285556.html
+-
+    Command: EQUATE
+    Type: statement
+    Description: "Declares a symbol equivalent to a literal, variable or simple\n\t\t\t\t\t\t\texpression."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/lee1685637094342.html
+-
+    Command: EQS
+    Type: function
+    Description: "Tests if elements of one dynamic array are equal to the elements of\n\t\t\t\t\t\t\tanother dynamic array."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/rma1666031285626.html
+-
+    Command: EREPLACE
+    Type: function
+    Description: Replace sub-string in an expression with another sub-string.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/dcm1666031285700.html
+-
+    Command: EXECUTE
+    Type: statement
+    Description: Allows execution of other programs and commands.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/uhp1666031209136.html
+-
+    Command: EXIT
+    Type: statement
+    Description: Halts the execution of a program.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/eax1666031285769.html
+-
+    Command: EXP
+    Type: function
+    Description: Returns the mathematical constant e to the specified power.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ysf1666031285838.html
+-
+    Command: EXTRACT
+    Type: function
+    Description: Archaic method of extracting elements from a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jds1666031285923.html
+-
+    Command: F
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: FADD
+    Type: function
+    Description: Performs addition on two floating point numbers.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/urs1666031286009.html
+-
+    Command: FDIV
+    Type: function
+    Description: Performs division on two floating point numbers.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/lle1666031286077.html
+-
+    Command: FIELD
+    Type: function
+    Description: Returns one or more delimited fields from a string.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/crg1666031283484.html
+-
+    Command: FIELDS
+    Type: function
+    Description: "Returns a dynamic array of delimited fields from a dynamic array of\n\t\t\t\t\t\t\tstrings."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pqs1666031286148.html
+-
+    Command: FILEINFO
+    Type: function
+    Description: Returns information on a specified file variable
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fst1752051785646.html
+-
+    Command: FILELOCK
+    Type: statement
+    Description: "Attempts to lock an entire file for exclusive use by this\n\t\t\t\t\t\t\tprogram."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sxu1666031286302.html
+-
+    Command: FILEUNLOCK
+    Type: statement
+    Description: Release a file locks set by theFILELOCKstatment
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gxn1666031286369.html
+-
+    Command: FIND
+    Type: statement
+    Description: "Finds the location of a specified string within a dynamic\n\t\t\t\t\t\t\tarray."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mbq1666031286448.html
+-
+    Command: FINDSTR
+    Type: statement
+    Description: "Finds the location of a specified string within a dynamic\n\t\t\t\t\t\t\tarray."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/arv1666031286590.html
+-
+    Command: FMT
+    Type: function
+    Description: Formats a string to a specified pattern.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/kwv1666031239873.html
+-
+    Command: FMTS
+    Type: function
+    Description: Formats the elements of a dynamic array for output.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/cxj1666031286673.html
+-
+    Command: FMUL
+    Type: function
+    Description: Performs multiplication on two floating point numbers.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jdh1666031286739.html
+-
+    Command: FOLD
+    Type: function
+    Description: Re-delimits a specified string with attribute marks.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fox1666031286891.html
+-
+    Command: FOOTING
+    Type: statement
+    Description: "Defines a footing to be included at the bottom of an output\n\t\t\t\t\t\t\tpage."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/oek1666031286959.html
+-
+    Command: FORMLIST
+    Type: statement
+    Description: Creates an active select list from a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/czu1666031287037.html
+-
+    Command: FOR
+    Type: statement
+    Description: Defines the start of a fixed increment loop construct.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/xtg1666031199487.html
+-
+    Command: FOR iterator
+    Type: statement
+    Description: "The FOR iterator (available in jBASE 5.7.7 and later) is a\n\t\t\t\t\t\t\tgeneralised iterator to simplify and unify looping constructs."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bjm1666031276590.html
+-
+    Command: FSUB
+    Type: function
+    Description: Performs subtraction on two floating point numbers.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tlc1666031286807.html
+-
+    Command: FUNCTION
+    Type: statement
+    Description: Declares a user-defined function.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ixp1666031287129.html
+-
+    Command: G
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: GES
+    Type: function
+    Description: Compares corresponding elements in two dynamic arrays.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gwm1666031287199.html
+-
+    Command: GET
+    Type: statement
+    Description: Gets input from an opened serial device.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ygm1666031287269.html
+-
+    Command: GETCWD
+    Type: function
+    Description: Returns the name of the current working directory.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/qyz1666031287555.html
+-
+    Command: GETENV
+    Type: function
+    Description: Determines the value of the specified environment variable.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ldk1721054457064.html
+-
+    Command: GETLIST
+    Type: statement
+    Description: Retrieves a previously stored list.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fzc1727958384225.html
+-
+    Command: GETUSERGROUP
+    Type: function
+    Description: Returns the group number for the User ID specified by @UID
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/uxs1666031287814.html
+-
+    Command: GETX
+    Type: statement
+    Description: Reads a block of data directly from a device.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fro1666031287474.html
+-
+    Command: GOSUB
+    Type: statement
+    Description: Causes execution of a local subroutine.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mfv1666031200939.html
+-
+    Command: GOTO
+    Type: statement
+    Description: "Causes program execution to jump to the code at a specified\n\t\t\t\t\t\t\tlabel."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wot1666031287884.html
+-
+    Command: GROUP
+    Type: function
+    Description: Returns one or more delimited fields from a string.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/hmn1666031287952.html
+-
+    Command: GROUPSTORE
+    Type: statement
+    Description: "Replaces one group of characters in a string with another group of\n\t\t\t\t\t\t\tcharacters."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ylz1666031288020.html
+-
+    Command: H
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: HEADING
+    Type: statement
+    Description: "Defines a heading to be included at the top of an output\n\t\t\t\t\t\t\tpage."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/oef1666031201766.html
+-
+    Command: HEADINGE AND HEADINGN
+    Type: statement
+    Description: "Defines a heading to be included at the top of an output page and\n\t\t\t\t\t\t\tejects the page."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sex1666031288088.html
+-
+    Command: HUSH
+    Type: statement
+    Description: "Turns on or off the echoing of characters typed at the\n\t\t\t\t\t\t\tkeyboard."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/asf1666031288158.html
+-
+    Command: I
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: ICONV
+    Type: function
+    Description: Converts data in external format to internal format.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/caw1666031240012.html
+-
+    Command: ICONVS
+    Type: function
+    Description: Converts elements of a dynamic array to internal format.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/qig1666031288227.html
+-
+    Command: IF
+    Type: statement
+    Description: Allows conditional execution of statements.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/oxg1666031288363.html
+-
+    Command: IFS
+    Type: function
+    Description: "returns a dynamic array whose elements are chosen individually from\n\t\t\t\t\t\t\tone of two arrays based on the contents of a third array."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/plx1666031288431.html
+-
+    Command: IN
+    Type: statement
+    Description: Gets raw data from the input device.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/whz1666031229469.html
+-
+    Command: INCLUDE / $INCLUDE / INSERT / $INSERT
+    Type: statement
+    Description: Include/insert code from other files
+    Link: 
+-
+    Command: Incremental File Errors
+    Type: error codes
+    Description: File access error codes
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tbo1666031206333.html
+-
+    Command: INDEX
+    Type: function
+    Description: "Returns the position of a character or characters within another\n\t\t\t\t\t\t\tstring."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/azn1666031288520.html
+-
+    Command: INDICES
+    Type: function
+    Description: Returns the index(es) on a file variable.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/odu1666031253078.html
+-
+    Command: INMAT
+    Type: function
+    Description: Returns the number of dimensioned array elements.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/uqm1666031288589.html
+-
+    Command: INPUT
+    Type: statement
+    Description: Gets data from the input device.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/hpy1666031229329.html
+-
+    Command: INPUTCLEAR
+    Type: statement
+    Description: Clears the type-ahead buffer.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sfc1666031288802.html
+-
+    Command: INPUTNULL
+    Type: statement
+    Description: Allows null input to be seen by the INPUT statement.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gww1666031229396.html
+-
+    Command: INS
+    Type: statement
+    Description: Allows the insertion of elements into a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gvp1666031288903.html
+-
+    Command: INSERT
+    Type: function
+    Description: Allows the insertion of elements into a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fvv1666031288972.html
+-
+    Command: INT
+    Type: function
+    Description: Truncates a numeric value to the nearest integer.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gnw1666031289063.html
+-
+    Command: IOCTL
+    Type: function
+    Description: Returns file information.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nxu1707907898569.html
+-
+    Command: ISALPHA
+    Type: function
+    Description: "Checks that an expression consists entirely of alphabetic\n\t\t\t\t\t\t\tcharacters."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pze1666031289133.html
+-
+    Command: ISALNUM
+    Type: function
+    Description: "Checks that an expression consists entirely of alphanumeric\n\t\t\t\t\t\t\tcharacters."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/amn1666031289202.html
+-
+    Command: ISCNTRL
+    Type: function
+    Description: "Checks that an expression consists entirely of control\n\t\t\t\t\t\t\tcharacters."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ulw1666031289270.html
+-
+    Command: ISDIGIT
+    Type: function
+    Description: "Checks that an expression consists entirely of numeric\n\t\t\t\t\t\t\tcharacters."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jkt1666031289337.html
+-
+    Command: ISLOWER
+    Type: function
+    Description: "Checks that the expression consists of entirely lower case\n\t\t\t\t\t\t\tcharacters."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pqg1666031289410.html
+-
+    Command: ISPRINT
+    Type: function
+    Description: "Checks that an expression consists entirely of printable\n\t\t\t\t\t\t\tcharacters."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wap1666031289479.html
+-
+    Command: ISSPACE
+    Type: function
+    Description: "Checks that an expression consists entirely of space type\n\t\t\t\t\t\t\tcharacters."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/zqj1666031289546.html
+-
+    Command: ISUPPER
+    Type: function
+    Description: "Checks that an expression consists entirely of upper case\n\t\t\t\t\t\t\tcharacters."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/lor1666031289615.html
+-
+    Command: ITYPE
+    Type: function
+    Description: "Returns the value resulting from the evaluation of an I-type\n\t\t\t\t\t\t\texpression in a jBASE file dictionary."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/vrx1666031289685.html
+-
+    Command: J
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: JBASECOREDUMP
+    Type: function
+    Description: "Dumps a portion of the application to an external file for later\n\t\t\t\t\t\t\tanalysis."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/frj1755513941470.html
+-
+    Command: JBASETHREADCreate
+    Type: command
+    Description: Starts a thread.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fdy1666031289821.html
+-
+    Command: JBASETHREADStatus
+    Type: command
+    Description: Shows the status of all running threads.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ric1666031289889.html
+-
+    Command: JQLCOMPILE
+    Type: statement
+    Description: Compiles a jQL statement.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ifx1666031239364.html
+-
+    Command: JQLEXECUTE
+    Type: statement
+    Description: Executes a compiled jQL statement
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jgj1666031239735.html
+-
+    Command: JQLFETCH
+    Type: statement
+    Description: Fetches the next result in a compiled jQL statement.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nwe1666031239805.html
+-
+    Command: JQLGETPROPERTY
+    Type: statement
+    Description: Gets the property of a compiled jQL statement.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mno1666031289959.html
+-
+    Command: JQLPUTPROPERTY
+    Type: statement
+    Description: Sets a property in a compiled jQL statement.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jib1666031290042.html
+-
+    Command: K
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: KEYIN
+    Type: function
+    Description: "Reads a single character from the input buffer and returns\n\t\t\t\t\t\t\tit."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/vnf1748879426754.html
+-
+    Command: L
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: LATIN1
+    Type: function
+    Description: "Converts a UTF-8 byte sequence to it's Binary or Latin\n\t\t\t\t\t\t\tequivalent."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/yis1666031208206.html
+-
+    Command: LEFT
+    Type: function
+    Description: Extracts the first n characters from a string.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mbp1666031290190.html
+-
+    Command: LEN
+    Type: function
+    Description: Returns the character length of an expression.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/rdk1666031199911.html
+-
+    Command: LENS
+    Type: function
+    Description: "Returns a dynamic array of the number of bytes in each element of a\n\t\t\t\t\t\t\tdynamic array."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/kvx1666031290260.html
+-
+    Command: LENDP
+    Type: function
+    Description: Returns the display length of and expression.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gvd1666031290329.html
+-
+    Command: LES
+    Type: function
+    Description: "Determines whether elements of one dynamic array are less than or\n\t\t\t\t\t\t\tequal to the corresponding element in another dynamic array."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sdo1666031290397.html
+-
+    Command: LISTPROC
+    Type: statement
+    Description: Lists all the items defined as PROCS in the MD file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/zsq1755546466847.html
+-
+    Command: LN
+    Type: function
+    Description: "Returns the value of the natural logarithm of a supplied\n\t\t\t\t\t\t\texpression."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ftx1666031290465.html
+-
+    Command: LOCALDATE
+    Type: function
+    Description: "Returns an internal date using the specified Timestamp and TimeZone\n\t\t\t\t\t\t\tcombination."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sco1752524928885.html
+-
+    Command: LOCALTIME
+    Type: function
+    Description: "Returns and internal time using the specified Timestamp and TimeZone\n\t\t\t\t\t\t\tcombination."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mhb1752074067237.html
+-
+    Command: LOCATE
+    Type: statement
+    Description: "Finds the position of an element in a specified dimension of a\n\t\t\t\t\t\t\tdynamic array."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fdb1666031286515.html
+-
+    Command: LOCK
+    Type: statement
+    Description: Sets an execution lock.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wop1760440006421.html
+-
+    Command: LOOP
+    Type: statement
+    Description: Defines the start of a loop construct.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/okk1666031199640.html
+-
+    Command: LOWER
+    Type: function
+    Description: Lowers delimiters in a string to their next lowest value.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/xuy1666031290756.html
+-
+    Command: M
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: MAKETIMESTAMP
+    Type: function
+    Description: Generates a Timestamp using internal date, time and timezone.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/oju1752525282887.html
+-
+    Command: MAXIMUM
+    Type: function
+    Description: Returns the highest numerical value in a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/rsl1666031290894.html
+-
+    Command: MAT
+    Type: statement
+    Description: Array element assignment.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ufe1666031201419.html
+-
+    Command: MATBUILD
+    Type: statement
+    Description: Creates a dynamic array from a dimensioned array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bhp1666031290963.html
+-
+    Command: MATCHES
+    Type: function
+    Description: Allows pattern matching to be applied to an expression.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/vux1666031291046.html
+-
+    Command: MATCHFIELD
+    Type: function
+    Description: Checks a string against a match pattern.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jni1710788469392.html
+-
+    Command: MATPARSE
+    Type: statement
+    Description: "Assigns the elements of a dynamic array to a dimensioned\n\t\t\t\t\t\t\tarray."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nax1666031288732.html
+-
+    Command: MATREAD
+    Type: statement
+    Description: "Reads a record and maps the elements into a dimensioned\n\t\t\t\t\t\t\tarray."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pta1666031281413.html
+-
+    Command: MATREADU
+    Type: statement
+    Description: "Reads and locks a record and maps the elements into a dimensioned\n\t\t\t\t\t\t\tarray."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bfu1666031288656.html
+-
+    Command: MATWRITE
+    Type: statement
+    Description: "Transfers the contents of a dimensioned array to a specified record\n\t\t\t\t\t\t\ton disc."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tko1666031207486.html
+-
+    Command: MATWRITEU
+    Type: statement
+    Description: "Transfers the contents of a dimensioned array to a specified record\n\t\t\t\t\t\t\ton disc and preserves locks."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/llt1666031291187.html
+-
+    Command: MINIMUM
+    Type: function
+    Description: Returns the lowest numerical value in a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mtk1666031291269.html
+-
+    Command: MOD
+    Type: function
+    Description: Returns the arithmetic modulo of two numeric expressions.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bju1701943076778.html
+-
+    Command: MODS
+    Type: function
+    Description: "Creates a dynamic array from the remainder of the division of the\n\t\t\t\t\t\t\telements in two dynamic arrays."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/arp1666031291358.html
+-
+    Command: MSLEEP
+    Type: statement
+    Description: "Pauses program execution for a specified number of\n\t\t\t\t\t\t\tmilliseconds."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/muf1666031291440.html
+-
+    Command: MULS
+    Type: function
+    Description: Divides corresponding elements in two dynamic arrays.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/rpm1666031291508.html
+-
+    Command: N
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: NEG
+    Type: function
+    Description: Returns the negative value of a numerical expression.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fwc1666031291576.html
+-
+    Command: NEGS
+    Type: function
+    Description: "Returns the negative values for the elements of a dynamic\n\t\t\t\t\t\t\tarray."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tmm1666031291644.html
+-
+    Command: NES
+    Type: function
+    Description: "Determines whether the elements of one dynamic array are equal to the\n\t\t\t\t\t\t\tcorresponding elements in another dynamic array."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/vks1666031291712.html
+-
+    Command: NOBUF
+    Type: statement
+    Description: "Turns off buffering for a file opened for sequential\n\t\t\t\t\t\t\tprocessing."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/dqt1666031291781.html
+-
+    Command: NOT
+    Type: function
+    Description: Inverts the Boolean value of an expression.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/xud1666031291849.html
+-
+    Command: NOTS
+    Type: function
+    Description: "Returns a dynamic array of the logical complement of the elements of\n\t\t\t\t\t\t\ta dynamic array."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nix1666031292022.html
+-
+    Command: NULL
+    Type: statement
+    Description: Does nothing.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/xrj1666031292088.html
+-
+    Command: NUM
+    Type: function
+    Description: Returns Boolean true if the supplied value is numeric.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mip1666031292158.html
+-
+    Command: NUMS
+    Type: function
+    Description: "Determines whether the elements of a dynamic array are\n\t\t\t\t\t\t\tnumeric."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mkz1666031292226.html
+-
+    Command: O
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: OCONV
+    Type: function
+    Description: Converts data in internal format to external format.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/uwg1726033946611.html
+-
+    Command: OCONVS
+    Type: function
+    Description: Converts the elements of a dynamic array to external format.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/kso1666031288294.html
+-
+    Command: ONGOTO/ONGOSUB
+    Type: statements
+    Description: "Transfers program execution to a label based upon a\n\t\t\t\t\t\t\tcalculation."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/cmw1666031292338.html
+-
+    Command: OPEN
+    Type: statement
+    Description: Opens a file or device to a descriptor variable.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sgr1666031206809.html
+-
+    Command: OPENDEV
+    Type: statement
+    Description: Opens a file or device for sequential reading and/or writing.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/twl1666031292456.html
+-
+    Command: OPENINDEX
+    Type: statement
+    Description: Opens a specific index definition for a file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ypd1666031253146.html
+-
+    Command: OPENPATH
+    Type: statement
+    Description: Opens a file given an absolute or relative path.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/amx1666031281270.html
+-
+    Command: OPENSEQ
+    Type: statement
+    Description: Opens a file for sequential reading and/or writing.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/dlz1666031206256.html
+-
+    Command: OPENSER
+    Type: statement
+    Description: Opens a device for serial IO.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/zpj1666031287338.html
+-
+    Command: ORS
+    Type: function
+    Description: "Creates a dynamic array of the logical OR of the corresponding\n\t\t\t\t\t\t\telements of two dynamic arrays."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nuw1666031292586.html
+-
+    Command: OSBREAD
+    Type: statement
+    Description: Reads an OS file from a file opened.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/swk1711134199715.html
+-
+    Command: OSBWRITE
+    Type: statement
+    Description: Writes an OS file to an file opened.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ukb1666031292907.html
+-
+    Command: OSCLOSE
+    Type: statement
+    Description: Closes a previously opened OS file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ncx1666031293105.html
+-
+    Command: OSDELETE
+    Type: statement
+    Description: Deletes an OS file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/uzz1666031293176.html
+-
+    Command: OSOPEN
+    Type: statement
+    Description: Opens an OS file for processing.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mcn1666031292800.html
+-
+    Command: OSREAD
+    Type: statement
+    Description: Reads an OS file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bnz1666031293247.html
+-
+    Command: OSWRITE
+    Type: statement
+    Description: Writes an OS file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ukb1666031292907.html
+-
+    Command: OUT
+    Type: statement
+    Description: Sends raw characters to the current output device.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/kqh1666031293316.html
+-
+    Command: P
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: PAGE
+    Type: statement
+    Description: Causes the current output device to page.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/joi1666031293398.html
+-
+    Command: PAUSE
+    Type: statement
+    Description: "Allows processing to be suspended until an external event\n\t\t\t\t\t\t\toccurs."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wdf1666031293465.html
+-
+    Command: PERFORM
+    Type: statement
+    Description: Allows execution of other programs and commands.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/miy1666031293600.html
+-
+    Command: PRECISION
+    Type: statement
+    Description: "Defines the number of digits of precision to be subsequently\n\t\t\t\t\t\t\tused."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ute1766467146455.html
+-
+    Command: PRINT
+    Type: statement
+    Description: Sends data to the current output device.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/lco1666031201999.html
+-
+    Command: PRINTER
+    Type: statement
+    Description: Controls the destination of output from the PRINT statement.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/cnk1666031201857.html
+-
+    Command: PRINTERR
+    Type: statement
+    Description: Prints standard jBASE error messages.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mfn1666031293670.html
+-
+    Command: PROCREAD
+    Type: statement
+    Description: Retrieves data passed from a jCL program to a jBC program.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nmd1666031293740.html
+-
+    Command: PROCWRITE
+    Type: statement
+    Description: "Passes data back to the primary input buffer of a calling jCL\n\t\t\t\t\t\t\tprogram."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/znm1666031293817.html
+-
+    Command: PROGRAM
+    Type: statement
+    Description: Documents source code.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/rrn1666031293883.html
+-
+    Command: PROMPT
+    Type: statement
+    Description: Defines the prompt characters used by INPUT.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/piy1666031293979.html
+-
+    Command: PUTENV
+    Type: function
+    Description: Sets environment variables for the current process.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/uwj1721054314092.html
+-
+    Command: PWR
+    Type: function
+    Description: Raises a number to a specified power.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mrc1666031294059.html
+-
+    Command: Q
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: QUOTE/DQUOTE/SQUOTE
+    Type: function
+    Description: Encloses a value in quotation marks.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/szk1666031294140.html
+-
+    Command: R
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: RAISE
+    Type: function
+    Description: Raises delimiters in a string to their next highest value.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wjz1666031294209.html
+-
+    Command: RANDOMIZE
+    Type: statement
+    Description: Initializes the random number generator (RND/README.md)
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/net1666031294277.html
+-
+    Command: READ
+    Type: statement
+    Description: Reads a record from an opened file into a variable.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/luh1666031206893.html
+-
+    Command: READBLK
+    Type: statement
+    Description: Reads a block of data from a sequential file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/hrk1666031207952.html
+-
+    Command: READL
+    Type: statement
+    Description: Reads a record and takes a read-only shared record lock.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wcd1666031281507.html
+-
+    Command: READLIST
+    Type: statement
+    Description: Retrieves a previously stored list.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sxy1666031287728.html
+-
+    Command: READNEXT
+    Type: statement
+    Description: Retrieves the next element in a list variable.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/vlo1666031239582.html
+-
+    Command: READNEXT KEY
+    Type: statement
+    Description: Retrieves the next index key in a list variable.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ckk1666031253218.html
+-
+    Command: READPREV
+    Type: statement
+    Description: Moves backward through an index.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ubl1666031253288.html
+-
+    Command: READSEQ
+    Type: statement
+    Description: Reads data from a file opened for sequential access.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pvs1666031206645.html
+-
+    Command: READT
+    Type: statement
+    Description: Reads tape devices.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/agz1666031228684.html
+-
+    Command: READU
+    Type: statement
+    Description: "Reads a record from an opened file into a variable respecting\n\t\t\t\t\t\t\tlocks."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/vvm1666031206986.html
+-
+    Command: READV
+    Type: statement
+    Description: "Reads a field from a record in an opened file into a\n\t\t\t\t\t\t\tvariable."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/iuz1666031281660.html
+-
+    Command: READVL
+    Type: statement
+    Description: Reads a field from the record.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/lum1666031281575.html
+-
+    Command: READVU
+    Type: statement
+    Description: "Reads a field from a record in an opened file into a variable\n\t\t\t\t\t\t\trespecting locks."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/dxv1666031281729.html
+-
+    Command: READXML
+    Type: statement
+    Description: Reads a record from a file and transforms to XML format.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/yzn1666031294438.html
+-
+    Command: RECORDLOCKED
+    Type: function
+    Description: Returns the status of a record lock.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fax1666031294512.html
+-
+    Command: RECORDLOCKL or RECORDLOCKU
+    Type: function
+    Description: Sets a read or update lock on a record.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mih1684933911386.html
+-
+    Command: REGEXP
+    Type: function
+    Description: Pattern matching with regular expressions.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tbe1684856542309.html
+-
+    Command: RELEASE
+    Type: statement
+    Description: Releases record locks.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ucj1666031207579.html
+-
+    Command: REM
+    Type: function
+    Description: Synonym of MOD.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bju1701943076778.html
+-
+    Command: REMOVE
+    Type: function
+    Description: Successively extracts delimited strings from a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/yfl1692353234096.html
+-
+    Command: REPLACE
+    Type: function
+    Description: Assign dynamic arrays via a function.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gma1666031294741.html
+-
+    Command: RETURN
+    Type: statement
+    Description: "Transfers execution to the caller of a subroutine/function or to a\n\t\t\t\t\t\t\tspecific label in a program."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/qnh1666031200803.html
+-
+    Command: REWIND
+    Type: statement
+    Description: Issues a rewind command to the attached device.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/aud1666031281801.html
+-
+    Command: RIGHT
+    Type: function
+    Description: Extracts the last n characters from a string.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wla1718983438902.html
+-
+    Command: RND
+    Type: function
+    Description: It generates a random number.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jzj1666031294343.html
+-
+    Command: RQM
+    Type: statement
+    Description: Pauses execution.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pcw1666031294883.html
+-
+    Command: RTNDATA
+    Type: statement
+    Description: "Return specific data to the RTNDATA clause of another program's\n\t\t\t\t\t\t\tEXECUTE."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/cjq1666031209288.html
+-
+    Command: S
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: SADD
+    Type: function
+    Description: Performs string addition.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tdl1666031295040.html
+-
+    Command: SDIV
+    Type: function
+    Description: Performs string division.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tnt1666031295140.html
+-
+    Command: SEEK
+    Type: statement
+    Description: Moves a file pointer.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ljl1666031295223.html
+-
+    Command: SELECT
+    Type: statement
+    Description: Creates a select list of elements in a specified variable.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/awf1715077092367.html
+-
+    Command: SELECTN
+    Type: statement
+    Description: Selects into a numbered select list.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/rvs1715081028877.html
+-
+    Command: SELECTV
+    Type: statement
+    Description: Selects into a named select list.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fzb1715081018631.html
+-
+    Command: SELECTE
+    Type: statement
+    Description: Copies numbered select list 0 to a named select list.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pyi1715081907931.html
+-
+    Command: SELECT with index
+    Type: statement
+    Description: Creates a select list of elements based on a secondary index.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jod1699905539820.html
+-
+    Command: SELECTINDEX
+    Type: statement
+    Description: "Creates a dynamic array of keys based on a single selection of an\n\t\t\t\t\t\t\tindex key."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tog1666031252583.html
+-
+    Command: SEND
+    Type: statement
+    Description: Sends output to a device.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/qvq1666031287406.html
+-
+    Command: SENDX
+    Type: statement
+    Description: Sends a block of data directly to the device.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pqw1666031295296.html
+-
+    Command: SENTENCE
+    Type: function
+    Description: "Returns the command used to invoke a program and the arguments it was\n\t\t\t\t\t\t\tgiven."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/uep1694806039694.html
+-
+    Command: SEQ
+    Type: function
+    Description: Returns the numeric ASCII value of a character.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/twx1666031295433.html
+-
+    Command: SEQS
+    Type: function
+    Description: "Converts a dynamic array of ASCII characters to their numeric string\n\t\t\t\t\t\t\tequivalents."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pyo1666031295502.html
+-
+    Command: SIN
+    Type: function
+    Description: Returns the sine of an angle.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/cfq1666031295572.html
+-
+    Command: SLEEP
+    Type: statement
+    Description: "Pauses program execution for a specified number of seconds or until a\n\t\t\t\t\t\t\tspecified time."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/zae1666031294960.html
+-
+    Command: SMUL
+    Type: function
+    Description: Performs string multiplication.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/kdi1666031295641.html
+-
+    Command: SORT
+    Type: function
+    Description: Sorts a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/rzf1666031295711.html
+-
+    Command: SOUNDEX
+    Type: function
+    Description: Converts strings to their phonetic equivalents.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/hak1666031295806.html
+-
+    Command: SPACE
+    Type: function
+    Description: Generates strings of spaces.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/vjz1666031295889.html
+-
+    Command: SPACES
+    Type: function
+    Description: "Generates a dynamic array with elements comprising of blank\n\t\t\t\t\t\t\tspaces."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gaz1666031295959.html
+-
+    Command: SPLICE
+    Type: function
+    Description: "Creates a dynamic array from the element by element concatenation of\n\t\t\t\t\t\t\ttwo dynamic arrays."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/xtt1666031296034.html
+-
+    Command: SPOOLER
+    Type: function
+    Description: Returns spooler information.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/lga1666031229121.html
+-
+    Command: SQRT
+    Type: function
+    Description: Returns the square root of a number.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jsx1666031296104.html
+-
+    Command: SSELECT
+    Type: statement
+    Description: Creates a select list.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bor1703139352881.html
+-
+    Command: SSELECTN
+    Type: statement
+    Description: Creates a select list.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fbv1703358759741.html
+-
+    Command: SSELECTV
+    Type: statement
+    Description: Creates a select list.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pfn1675186796803.html
+-
+    Command: SSUB
+    Type: function
+    Description: Performs string subtraction.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/yjr1666031296188.html
+-
+    Command: STATUS
+    Type: function
+    Description: Determines cause of a file open failure.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/twd1666031281190.html
+-
+    Command: STATUS
+    Type: statement
+    Description: Determine status of open file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/xuo1666031296260.html
+-
+    Command: STOP
+    Type: function
+    Description: Program termination.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ymj1666031201057.html
+-
+    Command: STR
+    Type: function
+    Description: Performs string duplication.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/vdj1666031296330.html
+-
+    Command: STRS
+    Type: function
+    Description: "Generates a dynamic array containing the specified number of\n\t\t\t\t\t\t\trepetitions of each element of a dynamic array"
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pat1666031296400.html
+-
+    Command: SUBROUTINE
+    Type: statement
+    Description: Declares an external subroutine.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sol1666031200118.html
+-
+    Command: SUBS
+    Type: function
+    Description: Subtracts corresponding elements in two dynamic arrays.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/pyg1726054150035.html
+-
+    Command: SUBSTRINGS
+    Type: function
+    Description: Returns sub-strings of elements from a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sbs1666031296544.html
+-
+    Command: SUM
+    Type: function
+    Description: Sums elements of a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/abb1726053923306.html
+-
+    Command: SUMMATION
+    Type: function
+    Description: Returns the total value of all elements in a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/grh1681492061438.html
+-
+    Command: SYSTEM
+    Type: function
+    Description: Returns system information.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fuu1679663282614.html
+-
+    Command: SWAP
+    Type: function
+    Description: Sub-string replacement.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/lea1666031282390.html
+-
+    Command: T
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: TAN
+    Type: function
+    Description: Returns the tangent of an angle.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/uzn1666031296681.html
+-
+    Command: TERMP
+    Type: function
+    Description: "Display or change the current terminal and printer output settings\n\t\t\t\t\t\t\tfor the current line."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/yps1759315598615.html
+-
+    Command: TIME
+    Type: function
+    Description: Returns the current system time.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/zun1666031296750.html
+-
+    Command: TIMEDATE
+    Type: function
+    Description: Returns the current time and date.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nzu1752524696297.html
+-
+    Command: TIMEDIFF
+    Type: function
+    Description: "Returns the interval between two timestamps as a dynamic\n\t\t\t\t\t\t\tarray."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/qke1752525938759.html
+-
+    Command: TIMEOUT
+    Type: function
+    Description: Terminates aREADBLKorREADSEQstatement.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/uut1666031296888.html
+-
+    Command: TIMESTAMP
+    Type: function
+    Description: Returns a UTC timestamp as decimal seconds.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/xoj1752523778085.html
+-
+    Command: TRANS
+    Type: function
+    Description: Retrieves a field from a file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nda1666031297061.html
+-
+    Command: TRANSABORT
+    Type: statement
+    Description: Aborts and reverses the current transaction.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/txh1699259100587.html
+-
+    Command: TRANSQUERY
+    Type: function
+    Description: Used to determine if currently in a transaction.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ehb1699259168955.html
+-
+    Command: TRANSTART
+    Type: statement
+    Description: Marks the beginning of a transaction.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ach1699258084344.html
+-
+    Command: TRANSEND
+    Type: statement
+    Description: Marks the end of a successfully completed transaction.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/kmw1699258987132.html
+-
+    Command: TRIM
+    Type: function
+    Description: Removes characters from a string.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/azy1666031297241.html
+-
+    Command: TRIMB
+    Type: function
+    Description: Removes trailing blanks.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/wop1666031297309.html
+-
+    Command: TRIMBS
+    Type: function
+    Description: "Removes trailing spaces and tabs from elements of a dynamic\n\t\t\t\t\t\t\tarray."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/cxb1666031297379.html
+-
+    Command: TRIMF
+    Type: function
+    Description: Removes leading blanks.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mph1666031297447.html
+-
+    Command: TRIMFS
+    Type: function
+    Description: "Removes leading spaces and tabs from elements of a dynamic\n\t\t\t\t\t\t\tarray."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/auc1666031297515.html
+-
+    Command: U
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: @unassigned
+    Type: statement
+    Description: Unassigned a variable
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jyt1732691941770.html
+-
+    Command: UNASSIGNED
+    Type: function
+    Description: Returns Boolean result for variable assignment.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/bty1666031297585.html
+-
+    Command: UNIQUEKEY
+    Type: function
+    Description: Returns a unique 16-byte character key.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/mhm1666031297655.html
+-
+    Command: UNLOCK
+    Type: statement
+    Description: Releases a previously locked execution lock.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fmv1666031297725.html
+-
+    Command: UPCASE
+    Type: function
+    Description: "Converts all lowercase characters in an expression to\n\t\t\t\t\t\t\tuppercase."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/coy1731602604832.html
+-
+    Command: UTF8
+    Type: function
+    Description: "Converts a latin1 or binary string into the UTF-8 equivalent byte\n\t\t\t\t\t\t\tsequence."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/gqy1666031282599.html
+-
+    Command: W
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: WAKE
+    Type: statement
+    Description: "Wakes a suspended process which has executed a pause\n\t\t\t\t\t\t\tstatement."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/dtv1666031293531.html
+-
+    Command: WEOF
+    Type: statement
+    Description: Writes an end of file mark on an attached tape device.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/alu1666031281869.html
+-
+    Command: WEOFSEQ
+    Type: statement
+    Description: "Writes end of file mark on a file opened for sequential\n\t\t\t\t\t\t\taccess."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tqs1666031206486.html
+-
+    Command: WRITE
+    Type: statement
+    Description: Writes a record to a previously opened file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tqi1666031207128.html
+-
+    Command: WRITEBLK
+    Type: statement
+    Description: "Writes a block of data to a file opened for sequential\n\t\t\t\t\t\t\tprocessing."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/ghm1666031208075.html
+-
+    Command: WRITELIST
+    Type: statement
+    Description: Writes a list to the stored list file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/uvb1666031284700.html
+-
+    Command: WRITESEQ
+    Type: statement
+    Description: Writes data to a file opened for sequential access.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/xip1666031206405.html
+-
+    Command: WRITESEQF
+    Type: statement
+    Description: Writes new lines to a file opened for sequential processing.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/aha1666031293021.html
+-
+    Command: WRITET
+    Type: statement
+    Description: Writes data to a tape device.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jzm1666031228758.html
+-
+    Command: WRITEU
+    Type: statement
+    Description: Writes a record to a previously opened file preserving locks.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/sud1666031207211.html
+-
+    Command: WRITEV
+    Type: statement
+    Description: Writes a record field to a previously opened file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/oze1666031207293.html
+-
+    Command: WRITEVU
+    Type: statement
+    Description: "Writes a record field to a previously opened file preserving\n\t\t\t\t\t\t\tlocks."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/jqu1666031207396.html
+-
+    Command: WRITEXML
+    Type: function
+    Description: Writes an XML record to a hashed file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/fry1666031297874.html
+-
+    Command: X
+    Type: 
+    Description: 
+    Link: 
+-
+    Command: XLATE
+    Type: function
+    Description: Retrieves a field from a file.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/uea1666031297133.html
+-
+    Command: XMLTODYN
+    Type: function
+    Description: Converts XML to a dynamic array.
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/nqj1666031297944.html
+-
+    Command: XMLTOXML
+    Type: function
+    Description: Transforms XML using an XSL
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/tfs1666031298013.html
+-
+    Command: XTD
+    Type: function
+    Description: "Returns the decimal representation of a hexadecimal\n\t\t\t\t\t\t\texpression."
+    Link: https://docs-be.rocketsoftware.com/bundle/jbase_lib_59/page/agh1666031298083.html
