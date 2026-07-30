@@ -3,6 +3,7 @@ defmodule Jbase.RootLayout do
   use Tableau.Layout
 
   def template(assigns) do
+    {:ok, config} = Tableau.Config.get()
     temple do
       "<!DOCTYPE html>"
 
@@ -20,7 +21,7 @@ defmodule Jbase.RootLayout do
           end
 
           link rel: "stylesheet", href: "https://cdn.jsdelivr.net/npm/sakura.css/css/sakura.css", type: "text/css"
-          script src: "/js/site.js"
+          script src: config.url <> "/js/site.js"
         end
 
         body do
